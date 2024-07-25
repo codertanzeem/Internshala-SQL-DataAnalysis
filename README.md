@@ -2,6 +2,16 @@
 This repository is for the SKILLS earned and a PROJECT made during SQL for Data-Analysis TRAINING of Internshala Data-Science Placement Gurantee Course.
 
 # SKILLS EARNED -->
+* SQL Fundamentals: Understanding the basics and building a strong foundation.
+  
+* Advanced Querying: Writing complex queries to retrieve, manipulate, and analyze data.
+  
+* Database Design: Designing efficient and scalable databases.
+  
+* Data Management: Managing and maintaining data integrity and security.
+  
+* Performance Tuning: Optimizing SQL queries for better performance.
+
 
 # PROJECT DESCRIPTION -->
 ## IPL Auction
