@@ -29,25 +29,19 @@ You have access to IPL data from the first to the 13th season. Analyze this data
 
 # Bidding Strategy for Batters:
 
-# Aggressive Batsmen:
-Important for quick scoring and putting pressure on the opposition. Focus on acquiring 2-3 players with high strike rates who have faced at least 500 balls.
+* Aggressive Batsmen: Important for quick scoring and putting pressure on the opposition. Focus on acquiring 2-3 players with high strike rates who have faced at least 500 balls.
 
-# Anchor Batsmen:
-Essential for stability and consistency. Aim to acquire 2-3 players with good averages who have participated in at least two IPL seasons.
+* Anchor Batsmen: Essential for stability and consistency. Aim to acquire 2-3 players with good averages who have participated in at least two IPL seasons.
 
-# Hard Hitters:
-Key for scoring runs in crucial moments. Target players who have scored most of their runs in boundaries and have played more than two IPL seasons.
+* Hard Hitters: Key for scoring runs in crucial moments. Target players who have scored most of their runs in boundaries and have played more than two IPL seasons.
 
 # Bidding Strategy for Bowlers:
 
-# Economical Bowlers:
-Important for controlling the scoring rate and maintaining pressure. Seek out 2-3 bowlers with good economy rates who have bowled at least 500 balls.
+* Economical Bowlers: Important for controlling the scoring rate and maintaining pressure. Seek out 2-3 bowlers with good economy rates who have bowled at least 500 balls.
 
-# Wicket-Taking Bowlers:
-Crucial for breaking partnerships and applying pressure. Focus on acquiring 2-3 bowlers with good strike rates who have bowled at least 500 balls.
+* Wicket-Taking Bowlers: Crucial for breaking partnerships and applying pressure. Focus on acquiring 2-3 bowlers with good strike rates who have bowled at least 500 balls.
 
 # Bidding Strategy for All-Rounders:
 
-# All-Rounders:
-Valuable for their versatility, providing both batting and bowling options. Target all-rounders who can contribute in multiple areas and offer flexibility in team composition.
+* All-Rounders: Valuable for their versatility, providing both batting and bowling options. Target all-rounders who can contribute in multiple areas and offer flexibility in team composition.
 This approach will help in building a competitive and well-rounded squad, ready to compete in the upcoming IPL season.
